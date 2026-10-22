@@ -262,15 +262,6 @@ The repository follows a progressive learning path:
 - [Wireshark Source Code](https://github.com/wireshark/wireshark)
 - [RFC Editor](https://www.rfc-editor.org/)
 
-## Contributing
-
-Contributions that improve technical accuracy, explanations, practical labs, and documentation are welcome.
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
-
-## License
-
-This repository's licensing terms are described in [LICENSE](LICENSE).
 
 ---
 
