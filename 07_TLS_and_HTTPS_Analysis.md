@@ -626,8 +626,3 @@ The analyst can examine IP addresses, ports, visible TLS handshake metadata, con
 | Key Log File | Contains session secrets for authorized decryption |
 | Forward Secrecy | Protects past sessions from later compromise of long-term keys |
 
----
-
-**Next File:** `08_Advanced_Traffic_Analysis.md`
-
-Next, we will explore advanced Wireshark techniques, traffic behavior, protocol anomalies, network performance indicators, and deeper packet-level investigation.
