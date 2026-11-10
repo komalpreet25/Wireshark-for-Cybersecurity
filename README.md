@@ -1,13 +1,13 @@
 # Wireshark-for-Cybersecurity
 
 ### Advanced Network Traffic Analysis, Threat Hunting & Digital Forensics
+A practical, hands-on learning repository for understanding network traffic, analyzing packets, troubleshooting network issues, and investigating suspicious activity using **Wireshark**.
 
 ![Wireshark](https://img.shields.io/badge/Tool-Wireshark-1679A7?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Cybersecurity-red?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Network%20Analysis-purple?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Learning%20%26%20Research-blue?style=for-the-badge)
 
-A practical, hands-on learning repository for understanding network traffic, analyzing packets, troubleshooting network issues, and investigating suspicious activity using **Wireshark**.
 
 ## 🎯 About This Repository
 
