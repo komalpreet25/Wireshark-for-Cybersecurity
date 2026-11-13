@@ -578,7 +578,7 @@ It helps analysts investigate network traffic, extract packet information, gener
 |---|---|
 | `tshark --version` | Check version |
 | `tshark -D` | List interfaces |
-| `tshark -i eth0` | Capture traffic |
+| `tshark -i eth0` | Capture traffic | 
 | `tshark -i eth0 -c 100` | Capture 100 packets |
 | `tshark -i eth0 -w file.pcapng` | Save captured packets |
 | `tshark -r file.pcapng` | Read a capture file |
