@@ -832,4 +832,4 @@ Practical packet analysis is an important skill for cybersecurity professionals,
 
 The goal is not just to identify packets but to understand communication patterns, recognize unusual behavior, correlate evidence, and explain findings accurately.
 
-**Always remember:** Suspicious traffic is an investigation lead, not automatically proof of a security incident.
+**Always remember:** Suspicious traffic is an investigation lead, not automatically proof of a security incident
